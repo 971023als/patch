@@ -1,4 +1,8 @@
 #!/bin/bash
+cd ..
+cd ..
+cd ..
+cd ..
 cd /tmp
 wget https://sourceforge.net/projects/rkhunter/files/rkhunter/1.4.6/rkhunter-1.4.6.tar.gz
 tar zxvf rkhunter-1.4.6.tar.gz
